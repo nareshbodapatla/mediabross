@@ -1,0 +1,78 @@
+.expertise-maincontainer{
+    font-family: 'Poppins';
+    height: cover;
+    margin: 0;
+    background-color: #F1F1FF;
+    color: #082354;
+}
+
+.expertise-heading-container{
+    padding: 30px;
+}
+
+.expertise-heading{
+    margin-bottom: 10px;
+}
+
+.expertise-para{
+    margin-bottom: 10px;
+}
+
+.expertise-info-container{
+    background-color: #082354;
+    color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.expertise-info-button{
+    border: none;
+    border-radius: 30px;
+    height: 50px;
+    width: 50px;
+}
+
+.expertise-info-head{
+    padding: 10px;
+}
+
+.expertise-info-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 90px;
+}
+
+.expertise-info-subcontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expertise-info-subcontainer-a{
+    margin: 20px;
+}
+
+.line-break{
+    border-color: #ffffff;
+    background-color: #ffffff;
+    height: 1px;
+    border-radius: 10px;
+}
+
+.expertise-seemore-btn{
+    margin: 40px;
+    width: 150px;
+    height: 40px;
+    background-color: #0157F0;
+    border-radius: 20px;
+    border: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.expertise-btn-container{
+    text-align: center;
+}
